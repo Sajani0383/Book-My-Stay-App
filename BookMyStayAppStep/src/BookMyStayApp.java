@@ -18,7 +18,7 @@
 public class BookMyStayApp {
     public static void main(String[] args){
         System.out.println("Welcome to Hotel Booking System");
-        System.out.println("Hotel Booking System v1.0");
+        System.out.println("Hotel Booking System v 1.0");
         System.out.println("Application Started Successfully");
     }
 }
