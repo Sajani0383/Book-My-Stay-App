@@ -73,7 +73,7 @@ class CancellationService {
     }
 }
 
-public class UseCase10BookingCancellation {
+public class BookMyStayApp{
 
     public static void main(String[] args) {
 
